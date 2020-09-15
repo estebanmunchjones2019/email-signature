@@ -4,7 +4,7 @@ There are plenty of online email signature generators out there, but none of the
 
 So..., I decided to build my own email signature, and style it my own way, to truly represent me. Here is the final product, that has **social media icons, phone number, email and website that can be clicked and redirect people to links!!**
 
-![](D:\Coding\articles\email-signature\screenshots\product.jpg)
+![](./screenshots/product.jpg)
 
  In this article, I'm gonna share with you the creation process, step by step:
 
@@ -28,7 +28,7 @@ The first thing is to find good free quality icons, and the best place is https:
 
 In this example, I'll just add three social media icons: [Twitter](https://uxwing.com/twitter-round-icon/), [LinledIn](https://uxwing.com/linkedin-round-icon/) and [GitHub](https://uxwing.com/github-icon/). So, it's a matter of searching for them in the page provided and download the PNG format.
 
-![uxwing](D:\Coding\articles\email-signature\screenshots\uxwing.jpg)
+![uxwing](./screenshots/uxwing.jpg)
 
 
 
@@ -48,7 +48,7 @@ Let's repeat this step of changing colors for all the downloaded icons.
 
 The original sizes of the icons are quite big and in this article and as we plan to use them in small sizes, let's reduce its size with [Onlinepngtools - resize png](https://onlinepngtools.com/resize-png). I've chosen the new width to be 100px and keep the aspect ratio. To change the size, just add the new width value like this:
 
-![](D:\Coding\articles\email-signature\screenshots\onlinepngtools2.jpg)
+![](./screenshots/onlinepngtools2.jpg)
 
 
 
@@ -58,27 +58,27 @@ Images used in HTML must be hosted somewhere. To do this, I've decided to use Fi
 
 Go to your [Firebase console](https://console.firebase.google.com/) and create a project and click on add a project:
 
-![](D:\Coding\articles\email-signature\screenshots\firebase-1.jpg)
+![](./screenshots/firebase-1.jpg)
 
 Then, just follow the 3 steps required to create the project. Once it has been created, we want to use the `storage` option from the left menu:
 
-![](D:\Coding\articles\email-signature\screenshots\firebase-2.jpg)
+![](./screenshots/firebase-2.jpg)
 
 Then just follow the 2 steps required without changing any default config, unless you know what you're doing.
 
 Once the storage bucket has been successfully created, you'll be able to upload your first icon by click on `upload file`:
 
-![](D:\Coding\articles\email-signature\screenshots\firebase-3.jpg)
+![](./screenshots/firebase-3.jpg)
 
 You can upload all the icons at once by selecting multiple ones, so you don't need to upload each file separately. 
 
 Once the icons were uploaded, just get the `image address` of each one by following these steps:
 
-![](D:\Coding\articles\email-signature\screenshots\firebase-4.jpg)
+![](./screenshots/firebase-4.jpg)
 
 If you paste the address on your browser, you should see this:
 
-![](D:\Coding\articles\email-signature\screenshots\firebase-5.jpg)
+![](./screenshots/firebase-5.jpg)
 
 It means that the styled icon is now available for the entire world!
 
@@ -266,11 +266,11 @@ You can create a `.html` file with the name of your choice, and paste the code i
 
 Then, to actually see the code rendered in the browser, you need to copy the file path:
 
-![](D:\Coding\articles\email-signature\screenshots\vscode.jpg)
+![](./screenshots/vscode.jpg)
 
 Then, go to your favorite browser an paste the address in the navigation bar and press enter:
 
-![](D:\Coding\articles\email-signature\screenshots\browser1.jpg)
+![](./screenshots/browser1.jpg)
 
 ## Adding the signature to the email provider
 
@@ -278,37 +278,37 @@ To wrap this project up, let's add this signature to an email provider. In my ca
 
 1) Copy the signature by keeping the left click pressed and hover over the content and copy it:
 
-![](D:\Coding\articles\email-signature\screenshots\browser2.jpg)
+![](./screenshots/browser2.jpg)
 
 2) Then, go to your Gmail account and click on `see all settings`:
 
- ![](D:\Coding\articles\email-signature\screenshots\gmail-1.jpg)
+ ![](./screenshots/gmail-1.jpg)
 
 3) Now, create a new signature:
 
-![](D:\Coding\articles\email-signature\screenshots\gmail-2.jpg)
+![](./screenshots/gmail-2.jpg)
 
 4) You'll be prompted with a form to fill the name of your signature, so put the name you want.
 
 5) After that, you should paste your copied signature in the text box. 
 
-![](D:\Coding\articles\email-signature\screenshots\gmail-3.jpg)
+![](./screenshots/gmail-3.jpg)
 
 6) Let's make a tiny adjustment on the phone number, email and website, by deactivating the bold option, if they got bold when you pasted them:
 
-![](D:\Coding\articles\email-signature\screenshots\gmail-4.jpg)
+![](./screenshots/gmail-4.jpg)
 
 Repeat the step above for the email and website.
 
-6) Now, just add your new signature to `new mails` and `replies` (or the options you prefer):![](D:\Coding\articles\email-signature\screenshots\gmail-5.jpg)
+6) Now, just add your new signature to `new mails` and `replies` (or the options you prefer):![](./screenshots/gmail-5.jpg)
 
 7) And finally save the changes:
 
-![](D:\Coding\articles\email-signature\screenshots\gmail-6.jpg)
+![](./screenshots/gmail-6.jpg)
 
 Let's test it now:
 
-![](D:\Coding\articles\email-signature\screenshots\test.jpg)
+![](./screenshots/test.jpg)
 
 **Wow!! a modern, good looking and functional signature, thanks to HTML and CSS.**
 
