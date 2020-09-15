@@ -40,7 +40,7 @@ All these icons have transparent background and are black. This color might meet
 
 [Onlinepngtools - change color](https://onlinepngtools.com/change-png-color#:~:text=World's%20simplest%20online%20Portable%20Network,new%20colors%20on%20the%20right.). You can upload your `.png` file and change the color. Here, I've changed the default `black` for `#f5593d`.
 
-![](screenshots\onlinepngtools.jpg)
+![](.\screenshots\onlinepngtools.jpg)
 
 Feel free to experiment with your own colors; there are loads of websites to help you select the best ones.
 
