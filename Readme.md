@@ -1,6 +1,6 @@
 # Build your custom email signature with HTML and CSS 
 
-Tired of typing your name at the end of every email you send? In this article you'll learn how to build your own email signature with HTML and CSS and style it your own way.
+Tired of typing your name at the end of every email you send? In this article you'll learn how to build your own email signature with HTML and CSS, and style it your own way.
 
 Here is the final product you can build, that has **social media icons, phone number, email and website that can be clicked and redirect people to links!!**
 
