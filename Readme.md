@@ -1,8 +1,8 @@
 # Build your custom email signature with HTML and CSS 
 
-There are plenty of online email signature generators out there, but none of the free ones convinced me. Some of them had nice layouts, but the icons had low quality and were blurry. 
+Tired of typing your name at the end of every email you send? In this article you'll learn how to build your own email signature with HTML and CSS and style it your own way.
 
-So..., I decided to build my own email signature, and style it my own way, to truly represent me. Here is the final product, that has **social media icons, phone number, email and website that can be clicked and redirect people to links!!**
+Here is the final product you can build, that has **social media icons, phone number, email and website that can be clicked and redirect people to links!!**
 
 ![](./screenshots/product.jpg)
 
