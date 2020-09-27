@@ -182,7 +182,7 @@ I've created one html file with this content:
                                                 </table>
                                             </td>
                                             <td style="padding: 0px; color: rgb(154, 154, 154);">
-                                                <a href="tel:+44 07434864952" style="text-decoration: none; color: rgb(154, 154, 154); font-size: 12px;">
+                                                <a href="tel:+4407434864952" style="text-decoration: none; color: rgb(154, 154, 154); font-size: 12px;">
                                                     <span>+44 07434864952</span>
                                                 </a>
                                             </td>
@@ -225,13 +225,6 @@ I've created one html file with this content:
                                                     <span>munchjones.com</span>
                                                 </a>
                                             </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                                <table cellpadding="0" cellspacing="0"  style="vertical-align: -webkit-baseline-middle; ; font-family: Arial;">
-                                    <tbody>
-                                        <tr>
-                                            <td height="30"></td>
                                         </tr>
                                     </tbody>
                                 </table>
