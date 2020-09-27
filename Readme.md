@@ -6,7 +6,7 @@ Here is the final product you can build, that has **social media icons, phone nu
 
 ![](./screenshots/product.jpg)
 
- In this article, I'm gonna share with you the creation process, step by step:
+In this article, I'm gonna share with you the creation process, step by step:
 
 Table of contents:  
 
